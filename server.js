@@ -1,5 +1,5 @@
 const app = require('./src/config/custom-express');
 
 app.listen(3000, () => {
-    console.log("object");
+    console.log("http://localhost:3000");
 });
